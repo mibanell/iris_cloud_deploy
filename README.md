@@ -8,7 +8,7 @@ In this repository, I wrote a python notebook for training and deploying a Tenso
 <br>
 <p align="center">
   <a href="https://github.com/mibanell">
-    <img  src="img/avatar_square.png" width="100">
+    <img  src="img/avatar_square.png" width="60">
   </a>
 </p>
 <p align="center">
